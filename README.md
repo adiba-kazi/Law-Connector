@@ -60,7 +60,7 @@ We welcome contributions to Law Connector! If you have ideas for improvements or
 For any questions, suggestions, or feedback, please contact:
 
 - **Name**: Adiba Kazi
-- **Email**: [adiba.kazi@example.com](mailto:adiba.kazi@example.com)
+- **Email**: aikazi8857@gmail.com
 - **GitHub**: [adiba-kazi](https://github.com/adiba-kazi)
 
 Thank you for choosing Law Connector to find the legal help you need!
